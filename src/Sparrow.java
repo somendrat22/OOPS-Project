@@ -7,4 +7,9 @@ public class Sparrow implements Bird {
     public void swing(){
 
     }
+
+
+    public void dance(){
+
+    }
 }
